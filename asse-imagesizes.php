@@ -13,6 +13,7 @@ function addImageSizes()
     add_image_size('teaser--a-full', 1000);
     add_image_size('teaser--a-panox2', 2000, 660, true);
     add_image_size('teaser--a-pano', 1000, 330, true);
+    add_image_size('teaser--a-pano-slider', 1000, 660, true);
     add_image_size('teaser--a-full-mobilex2', 1400);
     add_image_size('teaser--a-full-mobile', 700);
     add_image_size('teaser--b-longx2', 1320, 640, true);
