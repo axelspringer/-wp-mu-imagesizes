@@ -1,20 +1,20 @@
 {
-    "name": "muplugin/asse-imagesizes",
+    "name": "axelspringer/wp-mu--imagesizes",
     "type": "wordpress-muplugin",
-    "description": "asse imagesizes",
+    "description": "axelspringer imagesizes",
     "keywords": [
         "wordpress",
         "muplugin"
     ],
     "authors": [
         {
-            "name": "Developer",
+            "name": "Mathias Witt",
             "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-imagesizes/browse",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-imagesizes",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "asse-imagesizes"
+        "installer-name": "wp-mu-imagesizes"
     }
 }
