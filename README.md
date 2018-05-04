@@ -1,1 +1,1 @@
-# -wp-mu-imagesizes
+# wp-mu-imagesizes
